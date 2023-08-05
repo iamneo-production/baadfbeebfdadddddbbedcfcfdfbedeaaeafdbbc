@@ -60,7 +60,7 @@
 
 .option{
   background-color: #ffa16b;
-  border: none;
+  /*border: none;*/
   width: 100px;
   padding: 10px 15px;
   text-align: center;
