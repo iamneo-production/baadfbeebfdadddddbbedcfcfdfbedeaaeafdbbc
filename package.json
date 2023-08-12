@@ -1,0 +1,22 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "Quiz App",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/iamneo-production/baadfbeebfdadddddbbedcfcfdfbedeaaeafdbbc.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamneo-production/baadfbeebfdadddddbbedcfcfdfbedeaaeafdbbc/issues"
+  },
+  "homepage": "https://github.com/iamneo-production/baadfbeebfdadddddbbedcfcfdfbedeaaeafdbbc#readme"
+}
